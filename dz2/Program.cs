@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int[] array1 = {1, 2, 3};
+int[] array2 = {1, 2, 3};
+
